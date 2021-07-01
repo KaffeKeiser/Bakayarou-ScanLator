@@ -92,6 +92,54 @@
         "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/qNaAuW3"
       },
       "last_updated": "1621534368"
+    },
+    "10": {
+      "title": "Capítulo 10",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/y0fciAv"
+      },
+      "last_updated": "1622657568"
+    },
+    "10.5": {
+      "title": "Capítulo 10.5",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/uvBirhe"
+      },
+      "last_updated": "1622657568"
+    },
+    "11": {
+      "title": "Sutea pensando sobre o oceano",
+      "volume": "3",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/SsBchiS"
+      },
+      "last_updated": "1623521568"
+    },
+    "12": {
+      "title": "Estréia do estúdio de cosplay do Koushi",
+      "volume": "3",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/AWSf3aU"
+      },
+      "last_updated": "1623867168"
+    },
+    "13": {
+      "title": "Faculdade feminina Seikan - Festiva no campus 1",
+      "volume": "3",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/iOtiri7"
+      },
+      "last_updated": "1624558368"
+    },
+    "14": {
+      "title": "Faculdade feminina Seikan - Festiva no campus 2",
+      "volume": "3",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/w4XzDI7"
+      },
+      "last_updated": "1627755168"
     }
   }  
 }
