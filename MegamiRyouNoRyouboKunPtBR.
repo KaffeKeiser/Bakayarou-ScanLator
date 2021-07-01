@@ -36,6 +36,23 @@
         "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/XBInYXG"
       },
       "last_updated": "1625152368"
+    },
+    "5.1": {
+      "title": "Capítulo 5.1",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/sjWRcnK"
+      },
+      "last_updated": "1625152368"
+    }
+    ,
+    "5.2": {
+      "title": "Capítulo 5.2",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/G1jyMBs"
+      },
+      "last_updated": "1625152368"
     }
   }  
 }
