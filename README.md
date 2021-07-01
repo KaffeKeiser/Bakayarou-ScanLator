@@ -5,4 +5,4 @@
 * [Josee The Tiger And The Fish](https://cubari.moe/read/gist/JoseeTheTigerAndTheFishPtBR/)
 * [Futago Tachi No Shojijou](https://cubari.moe/read/gist/FutagoTachiNoShojijouPtBR/)
 * [Megami Ryou No Ryoubo Kun](https://cubari.moe/read/gist/MegamiRyouNoRyouboKunPtBR./)
-* [Bakayarou Boost](https://cubari.moe/read/gist/CaptulosBooster/)
+* [Bakayarou Boost](https://cubari.moe/read/gist/CapitulosDosBooster/)
