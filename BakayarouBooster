@@ -1,0 +1,14 @@
+{
+  "title": "Bakayarou Booster",
+  "description": "Capítulos antecipados da Bakayarou Scanlator",
+  "artist": "Bakayarou",
+  "author": "Scanlator",
+  "cover": "https://imgur.com/JUKd1Du.png",
+  "chapters": {
+    "194": {
+      "title": "KANOJO, OKARISHIMASU",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/NXVRwfx/"
+      },
+      "last_updated": "1619492400"
