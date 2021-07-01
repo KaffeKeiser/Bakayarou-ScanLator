@@ -44,8 +44,7 @@
         "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/sjWRcnK"
       },
       "last_updated": "1616955168"
-    }
-    ,
+    },
     "5.2": {
       "title": "Capítulo 5.2",
       "volume": "1",
@@ -53,6 +52,46 @@
         "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/G1jyMBs"
       },
       "last_updated": "1620238368"
+    },
+    "5.21": {
+      "title": "Capítulo 5.21",
+      "volume": "1",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/zu8Zxtc"
+      },
+      "last_updated": "1620238368"
+    },
+    "6": {
+      "title": "Capítulo 6",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/Zc6iMN1"
+      },
+      "last_updated": "1620843168"
+    },
+    "7": {
+      "title": "Capítulo 7",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/ar2Qyl1"
+      },
+      "last_updated": "1620843168"
+    },
+    "8": {
+      "title": "Capítulo 8",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/GJBwybP"
+      },
+      "last_updated": "1621534368"
+    },
+    "9": {
+      "title": "Capítulo 9",
+      "volume": "2",
+      "groups": {
+        "Bakayarou ScanLator, ReScan": "/proxy/api/imgur/chapter/qNaAuW3"
+      },
+      "last_updated": "1621534368"
     }
   }  
 }
